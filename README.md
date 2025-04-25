@@ -43,6 +43,10 @@ Open ecommerce.sql in MySQL Workbench or any SQL tool.
 Run the script to create the database schema.
 
 🤝 Contributors 
+<<<<<<< HEAD
 1. Elinah Mmbone   mmboneelinah@gmail.com
+=======
+1. Elinah Mmbone
+>>>>>>> e320cca129c7a2570a3227ae1ea2991118fc1c9a
 
 
